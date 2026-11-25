@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+# Python virtual env
+venv/
+# Python cache
+__pycache__/
+*.pyc
+# OS files
+.DS_Store
+Thumbs.db
+# Build artifacts
+frontend/dist/
+frontend/.next/
+# Environment
+.env
+.env.local
