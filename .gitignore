@@ -1,16 +1,12 @@
-# Node modules
-node_modules/
-# Python virtual env
-venv/
-# Python cache
+.venv/
 __pycache__/
-*.pyc
-# OS files
-.DS_Store
-Thumbs.db
-# Build artifacts
-frontend/dist/
-frontend/.next/
-# Environment
+*.py[cod]
 .env
-.env.local
+node_modules/
+dist/
+.pytest_cache/
+.DS_Store
+.venv/
+node_modules/
+.env
+__pycache__/
